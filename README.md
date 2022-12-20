@@ -16,4 +16,4 @@
 
 <p><img width='400px' height='400px' align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azarahmadov&show_icons=true&locale=en&layout=compact" alt="azarahmadov" /></p>
 
-<p>&nbsp;<img width='430px' height='430px' align="center" src="https://github-readme-stats.vercel.app/api?username=azarahmadov&show_icons=true&locale=en" alt="azarahmadov" /></p>
+<p>&nbsp;<img width='400px' align="center" src="https://github-readme-stats.vercel.app/api?username=azarahmadov&show_icons=true&locale=en" alt="azarahmadov" /></p>
