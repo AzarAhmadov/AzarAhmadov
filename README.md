@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Ahmadov Azar</h1>
 <h3 align="center">A passionate frontend "React" developer from Azerbaijan</h3>
 
-- 👨‍💻 All of my projects are available at: [https://azarahmadohv.netlify.app/](https://azarahmadohv.netlify.app/)
+- 👨‍💻 All of my projects are available at: [https://azarahmadohv.netlify.app/](https://azarahmadohv.netlify.app/) h3 align="right">A passionate frontend "React" developer from Azerbaijan</h3>
 
 - 📫 How to reach me: **azerehmedohv111@gmail.com**
 
-- 📞 WhatsApp: +994558210637 <h3 align="right">A passionate frontend "React" developer from Azerbaijan</h3>
+- 📞 WhatsApp: +994558210637
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
