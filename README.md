@@ -1,7 +1,7 @@
 <img style='object-fit:cover' max-width='100%' src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif"/>
 <h1 align="center">Hi 👋, I'm Ahmadov Azar</h1>
 <h3 align="center">A passionate frontend "React" developer from Azerbaijan</h3>
-<img max-height='140px' align='right' src="https://i.gifer.com/origin/c0/c05e0a986df727559354c449602105d0.gif"/>
+
 - 👨‍💻 All of my projects are available at: [https://azarahmadohv.netlify.app/](https://azarahmadohv.netlify.app/) 
 
 - 📫 How to reach me: **azerehmedohv111@gmail.com**
