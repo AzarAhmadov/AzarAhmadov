@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ahmadov Azar</h1>
 <h3 align="center">A passionate frontend "React" developer from Azerbaijan</h3>
 
-- 👨‍💻 All of my projects are available at: [https://azarahmadohv.netlify.app/](https://azarahmadohv.netlify.app/) <img src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif"/>
+- 👨‍💻 All of my projects are available at: [https://azarahmadohv.netlify.app/](https://azarahmadohv.netlify.app/) <img height='300px' src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif"/>
 
 - 📫 How to reach me: **azerehmedohv111@gmail.com**
 
