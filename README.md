@@ -6,9 +6,7 @@
 
 - 📫 How to reach me: **azerehmedohv111@gmail.com**
 
-- 📞 WhatsApp: +994558210637
-
-<h3 align="right">A passionate frontend "React" developer from Azerbaijan</h3>
+- 📞 WhatsApp: +994558210637 <h3 align="right">A passionate frontend "React" developer from Azerbaijan</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
