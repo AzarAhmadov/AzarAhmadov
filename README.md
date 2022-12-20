@@ -1,4 +1,4 @@
-<img height='350px' style='object-fit:cover' width='100%' src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif"/>
+<img style='object-fit:cover' max-width='100%' src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif"/>
 <h1 align="center">Hi 👋, I'm Ahmadov Azar</h1>
 <h3 align="center">A passionate frontend "React" developer from Azerbaijan</h3>
 
