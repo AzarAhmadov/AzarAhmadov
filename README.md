@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **azerehmedohv111@gmail.com**
 
-- 📞 WhatsApp: +994558210637 <img height='300px' src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif"/>
+- 📞 WhatsApp: +994558210637 <img height='300px' align='right' src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif"/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
