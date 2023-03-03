@@ -15,7 +15,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/#7389) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=html5,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AzarAhmadov&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AzarAhmadov&theme=default&hide_border=false)<br/>
