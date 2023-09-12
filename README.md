@@ -1,6 +1,6 @@
 <img style='object-fit:cover' max-width='100%' src="https://codemyui.com/wp-content/uploads/2017/03/hero-section-animation.gif"/>
 
-👨‍💻 All of my projects are available at https://azarahmadov.vercel.app/
+👨‍💻 All of my projects are available at https://azarahmadov.com/
 
 📫 How to reach me azarahmadohv111@gmail.com
 
