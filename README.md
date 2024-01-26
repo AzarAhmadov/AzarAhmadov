@@ -1,4 +1,4 @@
-<img style='object-fit:cover' max-width='100%' src="https://i.pinimg.com/originals/7a/b2/22/7ab222106e9edcd41a19ce14cc5d4ca8.gif"/>
+<img width='100%' height='auto' src="https://camo.githubusercontent.com/ebe0d55bb91736fbe8b869b4e98d9a2d37a9efc1a9de4a616a80fd278fffe47f/68747470733a2f2f636f696e6473797a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f313538343032333739352e676966"/>
 
 ### 👨‍💻 All of my projects are available at : https://azarahmadov.com/
 
