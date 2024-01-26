@@ -6,10 +6,10 @@
 
 ### 📞 WhatsApp : +994-055-821-06-37
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/azarahmadov_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azar-ahmadov/)
 
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
@@ -34,8 +34,8 @@
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=azarahmadov&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=azarahmadov&theme=dark&hide_border=false)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=azarahmadov&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=azarahmadov&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azarahmadov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
