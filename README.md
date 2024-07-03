@@ -2,7 +2,7 @@
 
 ### 👨‍💻 All of my projects are available at : https://azarahmadov.com/
 
-### 📫 How to reach me : azarahmadohv111@gmail.com
+### 📫 How to reach me : azarahmadovdev@gmail.com
 
 ### 📞 WhatsApp : +994-055-821-06-37
 
