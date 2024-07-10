@@ -1,15 +1,15 @@
 <img width='100%' height='auto' src="https://camo.githubusercontent.com/ebe0d55bb91736fbe8b869b4e98d9a2d37a9efc1a9de4a616a80fd278fffe47f/68747470733a2f2f636f696e6473797a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f313538343032333739352e676966"/>
 
-### 👨‍💻 All of my projects are available at : https://azarahmadov.com/
+### 👨‍💻 You can see all my projects here : https://azarahmadov.com/
 
 ### 📫 How to reach me : azarahmadovdev@gmail.com
 
 ### 📞 WhatsApp : +994-055-821-06-37
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/azarahmadov_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/azar-ahmadov/)
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SASS](https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
@@ -34,7 +34,7 @@
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=azarahmadov&theme=dark&hide_border=false&include_all_commits=false&count_private=false) <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=azarahmadov&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=azarahmadov&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
