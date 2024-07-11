@@ -1,4 +1,4 @@
-<img width='100%' height='auto' src="https://camo.githubusercontent.com/ebe0d55bb91736fbe8b869b4e98d9a2d37a9efc1a9de4a616a80fd278fffe47f/68747470733a2f2f636f696e6473797a2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f313538343032333739352e676966"/>
+<img width='100%' height='auto' src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=6c09b952l9z96a64n7zpgziugjyjnf55uox83af8hyxvwwx2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
 ### 👨‍💻 You can see all my projects here : https://azarahmadov.com/
 
