@@ -1,6 +1,6 @@
 <img width='100%' height='auto' src="https://media1.giphy.com/media/L8K62iTDkzGX6/giphy.gif?cid=6c09b952l9z96a64n7zpgziugjyjnf55uox83af8hyxvwwx2&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
 
-### 👨‍💻 Youtube : https://www.youtube.com/@azarahmadovtech
+### 📽️ Youtube : https://www.youtube.com/@azarahmadovtech
 
 ### 👨‍💻 You can see all my projects here : https://azarahmadov.vercel.app/
 
